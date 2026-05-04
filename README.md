@@ -1,7 +1,7 @@
-# Soil Legacies of Genotypic Diversity Promote Plant Performance by Mediating Ontogenetic Allometry
+# Soil legacies of genotypic diversity reshape developmental timing and ontogenetic allometry
 
 This repository contains the code and data for the manuscript:  
-**“Soil legacies of genotypic diversity promote plant performance by mediating ontogenetic allometry.”**
+**“Soil legacies of genotypic diversity reshape developmental timing and ontogenetic allometry.”**
 
 ---
 
@@ -46,5 +46,5 @@ This repository contains the code and data for the manuscript:
 
 1. Open `GeneticDiversity.Rproj` in RStudio.
 2. Ensure the data file is in the same directory as the R scripts.
-3. Run `GeneticDiversity.R` to reproduce the analyses and generate figures used in the manuscript.
+3. Run `Ontogeny.R` to reproduce the analyses and generate figures used in the manuscript.
 
